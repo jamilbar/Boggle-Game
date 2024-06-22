@@ -1,7 +1,7 @@
 ## Boggle Game
 
 ## Overview
-This project involves implementing the Boggle game as part of an exercise for the Introduction to Computer Science 67101 course. The goal is to apply programming concepts and practices to create a functioning game using the provided framework and instructions.
+This project involves implementing the Boggle game as part of an exercise for the Introduction to Computer Science 67101 course. The goal is to apply programming concepts and practices to create a functioning game.
 
 ## Features
 - A 4x4 grid Boggle board with randomly generated letters.
