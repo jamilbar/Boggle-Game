@@ -19,7 +19,7 @@ This project involves implementing the Boggle game as part of an exercise for th
 6. The game ends when the time limit is reached, and the final score and found words are displayed.
 
 ## Installation
-1. Clone or download the game repository from [GitHub](https://github.com/yourusername/boggle-game).
+1. Clone or download the game repository from [GitHub](https://github.com/jamilbar/Boggle-Game).
 2. Ensure you have Python installed on your system.
 
 ## Running the Game
