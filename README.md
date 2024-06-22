@@ -21,20 +21,11 @@ This project involves implementing the Boggle game as part of an exercise for th
 ## Installation
 1. Clone or download the game repository from [GitHub](https://github.com/yourusername/boggle-game).
 2. Ensure you have Python installed on your system.
-3. Install any necessary dependencies using:
 
 ## Running the Game
 - Open your terminal or command prompt.
 - Navigate to the directory where the game files are located.
 - Run the game using the command:
-
-## Files to Submit
-- `boggle.py`: The main execution file.
-- `ex12_utils.py`: Contains the main functions for the game logic.
-- `boggle_dict.txt`: Contains the list of valid words (unaltered).
-- `boggle_board_randomizer.py`: Contains the function to randomize the Boggle board (unaltered).
-- `README`: This file.
-- `AUTHORS`: A text file with the usernames (logins) of both partners, separated by a comma (e.g., `minniemouse,mickeymouse`).
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
