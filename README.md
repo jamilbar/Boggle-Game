@@ -1,7 +1,7 @@
 ## Boggle Game
 
 ## Overview
-This project involves implementing the Boggle game as part of an exercise for the Introduction to Computer Science 67101 course. The goal is to apply programming concepts and practices to create a functioning game.
+This project involves implementing the Boggle game as part of an exercise for the Introduction to Computer Science 67101 course. The goal is to apply programming concepts and practices to create a functioning game. This project implemented in Python, which includes a 4x4 randomized letter board where players aim to find as many words as possible within three minutes. The implementation includes efficient word validation against a dictionary, dynamic scoring based on word length, and ensures unique path usage for each word. The game features a user-friendly graphical interface, real-time score updates, and comprehensive end-of-game summaries. This project demonstrates proficiency in algorithmic design, Python programming, and GUI development.
 
 ## Features
 - A 4x4 grid Boggle board with randomly generated letters.
